@@ -1,3 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card-container {
+  margin-top: 60px;
+}
+.card {
+  max-width: 50%;
+  margin: auto;
+  padding: 20px 0;
+  box-shadow: 0 4px 6px 1px rgba(0, 0, 0, 0.4);
+}
+
+.card .control {
+  width: 80%;
+  font-size: 18px;
+  margin-top: -8px;
+  /* border: 1px solid black; */
+}
+
+.icons {
+  font-size: 22px;
+  margin-right: 6px;
+  transition: all 0.3s ease;
+}
+.icons:hover {
+  transform: scale(1.3, 1.3);
+}
+
+.edit {
+  color: dodgerblue;
+}
+.trash {
+  color: crimson;
+}
+/* .check {
+  color: teal;
+} */
+.completed {
+  color: teal;
+}
+.incomplete {
+  color: crimson;
+}
+
+.my-form {
+  margin-top: 40px;
+}
+
 .App {
   text-align: center;
 }
