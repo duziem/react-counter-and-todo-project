@@ -6,8 +6,8 @@ The project leverages multiple react features including **Redux** and **useReduc
 
 ## Counter App
 
-![React Todo App](https://github.com/duziem/react-counter-and-todo-project/raw/main/counter.jpg)
+![React Counter App](https://github.com/duziem/react-counter-and-todo-project/raw/main/counter.png)
 
 ## Todo App
 
-![React Todo App](https://github.com/duziem/react-counter-and-todo-project/raw/main/todo.jpg)
+![React Todo App](https://github.com/duziem/react-counter-and-todo-project/raw/main/todo.png)
